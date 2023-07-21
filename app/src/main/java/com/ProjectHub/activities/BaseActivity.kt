@@ -21,6 +21,7 @@ open class BaseActivity : AppCompatActivity() {
     }
 
 
+
     fun showProgressDialog(text: String) {
         mProgressDialog = Dialog(this)
         val binding: DialogProgressBinding = DialogProgressBinding.inflate(layoutInflater)
