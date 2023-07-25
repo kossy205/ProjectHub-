@@ -23,8 +23,6 @@ A way for a team to manage and track their task.
 
 - Asynchronous Operations: The app utilizes Kotlin Coroutines for asynchronous operations, ensuring a faster response and better battery efficiency.
 
-- Local Exercise History: ProjectHub uses cloud firestore to store tasks and user details online.
-
 - ViewBinding: The app leverages ViewBinding to enhance performance and improve view binding in the codebase.
 
 
